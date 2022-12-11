@@ -1,0 +1,15 @@
+#noticies{
+    left: 23em;
+    margin: 1em;
+    position: fixed;
+    float: right;
+}
+
+#fotokanye{
+    margin: 1em;
+    position: fixed;
+}
+
+#n2{
+    text-align:inherit;
+}
