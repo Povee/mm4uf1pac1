@@ -7,3 +7,10 @@
     padding: 1em;
     font-size: 30px;
 }
+body{
+    background-color:white;
+    background-image: url(../img/kanyepng4.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: scroll;
+}
